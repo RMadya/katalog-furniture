@@ -227,5 +227,4 @@ Jika berhasil, terminal akan menampilkan:
 ## 👨‍💻 Kontributor
 
 * **Pengembang:** RS Furniture Dev Team
-* **Kontak WhatsApp:** [081-215-618-998](https://wa.me/6281215618998)
 * **Lisensi:** Proyek ini dilisensikan di bawah [MIT License](LICENSE).
